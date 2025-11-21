@@ -67,4 +67,5 @@ To simulate a Full wave Bridge rectifier circuit and compare the outputs with an
 
 ## RESULT:
 
-The simulation was done in LTspice and the output waveform is obtained.
+<img width="1280" height="368" alt="image" src="https://github.com/user-attachments/assets/c3ffb544-27a2-4a4b-8b37-b69d885044eb" />
+
